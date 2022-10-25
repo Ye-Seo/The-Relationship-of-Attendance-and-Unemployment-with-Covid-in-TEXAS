@@ -4,6 +4,20 @@ I want to see the relationship with these two independent factors with covid cas
 I thought the attendance and covid has a close relationship because covid prevent the attendance.
 When comparing the relationship with variables and covid cases, Irving, ElPaso, Montogomery, Tarrant and Harris have correlationship with covid cases and attendance, but others were not so It can't be said that there is relationship with covid cases and attendace. Also, the unemployment got decreased as covid casese are i
 ncreasing except the last month. It means despite the pandemic, we can see that people try to find a job.
-Results
 
-<img width="272" alt="image" src="https://user-images.githubusercontent.com/112365479/197826970-ba4c3b06-a89f-4e3a-9ea2-99b2d02853f9.png">
+Results: 
+
+When COVID increase,
+
+FortWorthAlrington: attendance increase and unemployment decrease (not last one)
+Iriving: attendance stable and unemployment decrease (not last one)
+Tarrant: attendance decrease and unemployment decrease (not last one)
+Burleson: attendance decrease and increase and unemployment decrease (not last one)
+
+ElPaso: attendance decrease and increase and unemployment decrease (not last one)
+Floyd: attendance decrease and increase and unemployment decrease (not last one)
+
+Montogomery: attendance decrease and unemployment decrease
+Harris: attendance decrease and unemployment decrease
+
+<img width="350" alt="image" src="https://user-images.githubusercontent.com/112365479/197836572-e4dbc05a-7878-467d-8131-03143ba7b798.png">
