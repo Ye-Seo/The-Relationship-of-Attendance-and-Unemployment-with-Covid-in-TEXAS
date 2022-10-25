@@ -5,4 +5,5 @@ I thought the attendance and covid has a close relationship because covid preven
 When comparing the relationship with variables and covid cases, Irving, ElPaso, Montogomery, Tarrant and Harris have correlationship with covid cases and attendance, but others were not so It can't be said that there is relationship with covid cases and attendace. Also, the unemployment got decreased as covid casese are i
 ncreasing except the last month. It means despite the pandemic, we can see that people try to find a job.
 Results
+
 <img width="272" alt="image" src="https://user-images.githubusercontent.com/112365479/197826970-ba4c3b06-a89f-4e3a-9ea2-99b2d02853f9.png">
